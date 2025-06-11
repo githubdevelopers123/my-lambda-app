@@ -1,0 +1,11 @@
+{
+  "name": "lambda-hello",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "devDependencies": {
+    "serverless": "^3.0.0"
+  }
+}
